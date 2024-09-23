@@ -1,0 +1,4 @@
+ttkbootstrap
+pandas
+scikit-learn
+xgboost
